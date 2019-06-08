@@ -43,12 +43,11 @@ Another example is another institution that joins the circuit and extends the se
 
 Liquidity tokens, having immediate liquidity, can be exchanged immediately without having to enter the order in Exchange.
 
-## ICO? No, thanks!
-Tichex has no intention to carry out any ICO. The engine will be activated from the first block.
 
-In the genesis block, *THX* will have an initial supply of 0 and will be issued as the first reward block. THEUR instead, will be issued by Emoney and will be purchased by the Validator for the initial staking. (We could also propose an initial auction for the first 16, in this case 100 Validator will be reached later in the time).
+## Genesis
+THEUR will be issued by Em@ney and will be purchased by the Validator for the initial staking. (We could also propose an initial auction for the first 16, in this case 100 Validator will be reached later in the time).
 Once the block 12 is born, the Validators already have the first rewards, and can therefore go to sell them in THEUR determining the market value. THEUR/THX will be the first pair available.
 
 The technologies used are the same as those of Binance, BitSong, Minter, Cosmos, Iris Network. All advanced and interconnected blockchains thanks to Cosmos.
 
-The project would immediately attract a large number of investors (as well as Validator, ultimately fighting for all that is Cosmos) and throwing down the first real decentralized blockchain with stable currencies, Fiat Providers and liquid tokens.
+The project would immediately attract a large number of investors (as well as Validator, ultimately fighting for all that is Cosmos) and putting up the first real decentralized blockchain with stable currencies, Fiat Providers and liquid tokens.
