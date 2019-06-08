@@ -9,8 +9,7 @@ The blockchain is based on the Bizantine Fault Tolerance consensus algorithm (co
 
 ## Types of Token
 * Token pegged to Fiat
-* Liquidity Token pegged to THX (our native coin)
-* Standard Token (no pegged)
+* Standard Liquidity Token pegged to THX (our native coin)
 
 ## Main Actors
 To make the blockchain work, there must be 4 types of users.
